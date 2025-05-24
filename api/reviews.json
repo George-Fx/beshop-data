@@ -1,0 +1,36 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Cameron Williamson",
+      "rating": 3,
+      "date": "23 Jan 2024",
+      "avatar": "https://beshop-data.vercel.app/assets/avatars/01.jpg",
+      "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo."
+    },
+    {
+      "id": 2,
+      "name": "Theresa Webb",
+      "rating": 3,
+      "date": "23 Jan 2024",
+      "avatar": "https://beshop-data.vercel.app/assets/avatars/02.jpg",
+      "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo."
+    },
+    {
+      "id": 3,
+      "name": "Marvin McKinney",
+      "rating": 3,
+      "date": "23 Jan 2024",
+      "avatar": "https://beshop-data.vercel.app/assets/avatars/03.jpg",
+      "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo."
+    },
+    {
+      "id": 4,
+      "name": "Jacob Jones",
+      "rating": 3,
+      "date": "23 Jan 2024",
+      "avatar": "https://beshop-data.vercel.app/assets/avatars/04.jpg",
+      "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo."
+    }
+  ]
+}
