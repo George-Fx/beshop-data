@@ -3,32 +3,32 @@
     {
       "id": 1,
       "name": "SPA",
-      "image": "https://beshop-data.vercel.app/assets/categories/01.jpg"
+      "image": "https://george-fx.github.io/beshop-data/assets/categories/01.jpg"
     },
     {
       "id": 2,
       "name": "Nails",
-      "image": "https://beshop-data.vercel.app/assets/categories/02.jpg"
+      "image": "https://george-fx.github.io/beshop-data/assets/categories/02.jpg"
     },
     {
       "id": 3,
       "name": "Perfum",
-      "image": "https://beshop-data.vercel.app/assets/categories/03.jpg"
+      "image": "https://george-fx.github.io/beshop-data/assets/categories/03.jpg"
     },
     {
       "id": 4,
       "name": "Skin Care",
-      "image": "https://beshop-data.vercel.app/assets/categories/04.jpg"
+      "image": "https://george-fx.github.io/beshop-data/assets/categories/04.jpg"
     },
     {
       "id": 5,
       "name": "Hairs",
-      "image": "https://beshop-data.vercel.app/assets/categories/05.jpg"
+      "image": "https://george-fx.github.io/beshop-data/assets/categories/05.jpg"
     },
     {
       "id": 6,
       "name": "Faces",
-      "image": "https://beshop-data.vercel.app/assets/categories/06.jpg"
+      "image": "https://george-fx.github.io/beshop-data/assets/categories/06.jpg"
     }
   ]
 }
